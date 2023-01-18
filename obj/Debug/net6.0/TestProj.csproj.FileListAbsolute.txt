@@ -1,0 +1,15 @@
+D:\PracticVisualStudio\myPractic\TestProj\bin\Debug\net6.0\TestProj.exe
+D:\PracticVisualStudio\myPractic\TestProj\bin\Debug\net6.0\TestProj.deps.json
+D:\PracticVisualStudio\myPractic\TestProj\bin\Debug\net6.0\TestProj.runtimeconfig.json
+D:\PracticVisualStudio\myPractic\TestProj\bin\Debug\net6.0\TestProj.dll
+D:\PracticVisualStudio\myPractic\TestProj\bin\Debug\net6.0\TestProj.pdb
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\TestProj.csproj.AssemblyReference.cache
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\TestProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\TestProj.AssemblyInfoInputs.cache
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\TestProj.AssemblyInfo.cs
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\TestProj.csproj.CoreCompileInputs.cache
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\TestProj.dll
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\refint\TestProj.dll
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\TestProj.pdb
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\TestProj.genruntimeconfig.cache
+D:\PracticVisualStudio\myPractic\TestProj\obj\Debug\net6.0\ref\TestProj.dll
